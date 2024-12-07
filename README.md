@@ -60,11 +60,11 @@ Enjoy your reading journey! 📖✨
 
 **Cosine Similarity**
 
-Measures the cosine of the angle between two vectors in a multi-dimensional space. In this system, it calculates the similarity between books based on their attributes.
+    Measures the cosine of the angle between two vectors in a multi-dimensional space. In this system, it calculates the similarity between books based on their attributes.
 
 **Item-Based Filtering**
 
-Generates recommendations by identifying similar books (items) using a similarity metric (cosine similarity in this case).
+    Generates recommendations by identifying similar books (items) using a similarity metric (cosine similarity in this case).
 
 
 
