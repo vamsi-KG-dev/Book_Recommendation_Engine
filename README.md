@@ -31,7 +31,7 @@ python Deployment.py
 ---
 
 ## 📂 Key Files
----
+
 
 Deployment.py: 🚦 The main script to run the recommendation system.
 
@@ -39,7 +39,7 @@ P457.jypnb: 📘 Notebook containing the model training code.
 ---
 
 ## 🛠️ Technologies
----
+
 
 🐍 Python
 📊 Pandas
@@ -47,7 +47,7 @@ P457.jypnb: 📘 Notebook containing the model training code.
 📚 Scikit-learn
 
 ## 🌱 Future Improvements
----
+
 
 🤝 Add user-based personalized recommendations.
 📝 Use NLP to analyze book descriptions.
