@@ -1,7 +1,6 @@
 # 📚 Book Recommendation System
 
 A smart system that recommends books using **cosine similarity** and **item-based filtering**. Discover your next favorite book! 🌟
-
 ---
 
 ## ✨ Features
