@@ -20,18 +20,24 @@ A Python-based Book Recommendation System that uses **cosine similarity** and **
    cd book-recommendation-system
    
 **Install dependencies:**
+
 [pip install -r requirements.txt]
+
 requirements.txt includes the Technologies
 
 
 **Run the deployment script:**
+
 [python Deployment.py]
+
 Follow the prompts to get book recommendations.
 
 ---
 
 **Files**
+
 Deployment.py: Script for running the recommendation system.
+
 P457.jypnb: Contains the training code for the recommendation model.
 
 ---
