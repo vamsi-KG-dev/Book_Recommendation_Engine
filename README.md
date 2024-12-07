@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python Deployment.py
 
 ### 🎯 Follow the prompts to get personalized book recommendations!
----
+
 
 ## 📂 Key Files
 
@@ -36,7 +36,6 @@ python Deployment.py
 Deployment.py: 🚦 The main script to run the recommendation system.
 
 P457.jypnb: 📘 Notebook containing the model training code.
----
 
 ## 🛠️ Technologies
 
