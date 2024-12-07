@@ -1,6 +1,6 @@
 # 📚 Book Recommendation System
 
-A smart system that recommends books using **cosine similarity** and **item-based filtering**. Discover your next favorite book! 🌟
+A Python-based Book Recommendation System that uses **cosine similarity** and **item-based filtering** to suggest books to users based on their preferences. This project demonstrates the implementation of recommendation algorithms and offers an interactive interface for users. 🌟
 
 
 ## ✨ Features
@@ -49,17 +49,24 @@ P457.jypnb: 📘 Notebook containing the model training code.
 
 
 🤝 Add user-based personalized recommendations.
+
 📝 Use NLP to analyze book descriptions.
+
 📈 Enhance recommendation accuracy with user feedback.
+
 Enjoy your reading journey! 📖✨
 
+## Algorithms Used
+
+**Cosine Similarity**
+
+Measures the cosine of the angle between two vectors in a multi-dimensional space. In this system, it calculates the similarity between books based on their attributes.
+
+**Item-Based Filtering**
+
+Generates recommendations by identifying similar books (items) using a similarity metric (cosine similarity in this case).
 
 
 
 
 
-
-
-
-
-ChatGPT can make mistakes. Check important info.
