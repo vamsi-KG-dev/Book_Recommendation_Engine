@@ -41,8 +41,11 @@ P457.jypnb: 📘 Notebook containing the model training code.
 
 
 🐍 Python
+
 📊 Pandas
+
 🔢 NumPy
+
 📚 Scikit-learn
 
 ## 🌱 Future Improvements
