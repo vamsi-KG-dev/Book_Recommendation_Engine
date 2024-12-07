@@ -9,7 +9,7 @@ A smart system that recommends books using **cosine similarity** and **item-base
 - 📏 **Cosine Similarity**: Measures how closely books are related.  
 - 💻 **Easy to Use**: Simple and user-friendly interface.  
 
----
+
 
 ## 🚀 How to Use
 
