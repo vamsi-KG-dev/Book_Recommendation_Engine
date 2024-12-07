@@ -15,17 +15,17 @@ A Python-based Book Recommendation System that uses **cosine similarity** and **
 
 ## Clone the repository:  
   
-   git clone https://github.com/username/book-recommendation-system.git
+     git clone https://github.com/username/book-recommendation-system.git
    
-   cd book-recommendation-system
+     cd book-recommendation-system
    
 ## Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## Run the deployment script:
 
-python Deployment.py
+    python Deployment.py
 
 ### 🎯 Follow the prompts to get personalized book recommendations!
 
@@ -33,20 +33,20 @@ python Deployment.py
 ## 📂 Key Files
 
 
-Deployment.py: 🚦 The main script to run the recommendation system.
+    Deployment.py: 🚦 The main script to run the recommendation system.
 
-P457.jypnb: 📘 Notebook containing the model training code.
+    P457.jypnb: 📘 Notebook containing the model training code.
 
 ## 🛠️ Technologies
 
 
-🐍 Python
+    🐍 Python
 
-📊 Pandas
+    📊 Pandas
 
-🔢 NumPy
+    🔢 NumPy
 
-📚 Scikit-learn
+    📚 Scikit-learn
 
 ## 🌱 Future Improvements
 
