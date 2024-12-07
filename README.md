@@ -48,13 +48,13 @@ P457.jypnb: 📘 Notebook containing the model training code.
 ## 🌱 Future Improvements
 
 
-🤝 Add user-based personalized recommendations.
+    🤝 Add user-based personalized recommendations.
 
-📝 Use NLP to analyze book descriptions.
+    📝 Use NLP to analyze book descriptions.
 
-📈 Enhance recommendation accuracy with user feedback.
+    📈 Enhance recommendation accuracy with user feedback.
 
-Enjoy your reading journey! 📖✨
+
 
 ## Algorithms Used
 
